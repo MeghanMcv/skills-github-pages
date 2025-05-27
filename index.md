@@ -32,7 +32,7 @@ Above is the original code explanation, and below is my replacement of a short s
 
 > Rainsford did not want to believe what his reason told him was true, but the truth was as evident as the sun that had by now pushed through the morning mists. The general was playing with him! The general was saving him for another day's sport! The Cossack was the cat; he was the mouse. Then it was that Rainsford knew the full meaning of terror.
 
-*Source: [https://www.btboces.org/Downloads/1_The%20Most%20Dangerous%20Game%20by%20Richard%20Connell.pdf)*
+*Source: [Short Story](https://www.btboces.org/Downloads/1_The%20Most%20Dangerous%20Game%20by%20Richard%20Connell.pdf)*
 
 Hard Mode! Shakespeare
 
