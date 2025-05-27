@@ -13,10 +13,7 @@ Feel like making a bookmarklet of this or something? [Fork it](https://github.co
 
 Above is the original code explanation, and below is my replacement of a short story. It is a short exerpt of The Most Dangerous Game, a short story by Richard Connell.
 
-> "I wanted the ideal animal to hunt," explained the general. "So I said,
-`What are the attributes of an ideal quarry?' And the answer was, of
-course, `It must have courage, cunning, and, above all, it must be able
-to reason."'
+> "I wanted the ideal animal to hunt," explained the general. "So I said, What are the attributes of an ideal quarry?' And the answer was, of course, `It must have courage, cunning, and, above all, it must be able to reason."'
 
 >"But no animal can reason," objected Rainsford.
 
