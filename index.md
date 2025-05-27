@@ -9,7 +9,7 @@ tags: [dyslexia, typoglycemia, Javascript]
 
 I remembered reading about [typoglycemia](https://en.wikipedia.org/wiki/Typoglycemia). Wouldn't it be possible to do it interactively on a website with Javascript? Sure it would.
 
-Feel like making a bookmarklet of this or something? [Fork it](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) on github." From the original source code
+Feel like making a bookmarklet of this or something? [Fork it: Original Github Link](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) [Fork it: My Link]( on github." From the original source code
 
 Above is the original code explanation, and below is my replacement of a short story. It is a short exerpt of The Most Dangerous Game, a short story by Richard Connell.
 
@@ -27,6 +27,10 @@ Above is the original code explanation, and below is my replacement of a short s
 > Rainsford held his breath. The general's eyes had left the ground and were traveling inch by inch up the tree. Rainsford froze there, every muscle tensed for a spring. But the sharp eyes of the hunter stopped before they reached the limb where Rainsford lay; a smile spread over his brown face. Very deliberately he blew a smoke ring into the air; then he turned his back on the tree and walked carelessly away, back along the trail he had come. The swish of the underbrush against his hunting boots grew fainter and fainter.
 
 > The pent-up air burst hotly from Rainsford's lungs. His first thought made him feel sick and numb. The general could follow a trail through the woods at night; he could follow an extremely difficult trail; he must have uncanny powers; only by the merest chance had the Cossack failed to see his quarry.
+
+> Rainsford's second thought was even more terrible. It sent a shudder of cold horror through his whole being. Why had the general smiled? Why had he turned back?
+
+> Rainsford did not want to believe what his reason told him was true, but the truth was as evident as the sun that had by now pushed through the morning mists. The general was playing with him! The general was saving him for another day's sport! The Cossack was the cat; he was the mouse. Then it was that Rainsford knew the full meaning of terror.
 
 *Source: [https://www.btboces.org/Downloads/1_The%20Most%20Dangerous%20Game%20by%20Richard%20Connell.pdf)*
 
