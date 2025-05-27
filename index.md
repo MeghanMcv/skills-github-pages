@@ -34,8 +34,17 @@ Above is the original code explanation, and below is my replacement of a short s
 
 *Source: [https://www.btboces.org/Downloads/1_The%20Most%20Dangerous%20Game%20by%20Richard%20Connell.pdf)*
 
+Hard Mode! Shakespeare
 
+> MACDUFF: O Scotland, Scotland!
 
+> MALCOLM: If such a one be fit to govern, speak: I am as I have spoken.
+
+> MACDUFF: Fit to govern! No, not to live. O nation miserable, With an untitled tyrant bloody-scepter'd, When shalt thou see thy wholesome days again, Since that the truest issue of thy throne By his own interdiction stands accursed, And does blaspheme his breed? Thy royal father Was a most sainted king: the queen that bore thee, Oftener upon her knees than on her feet, Died every day she lived. Fare thee well! These evils thou repeat'st upon thyself Have banish'd me from Scotland. O my breast, Thy hope ends here!
+
+> MALCOLM: Macduff, this noble passion, Child of integrity, hath from my soul Wiped the black scruples, reconciled my thoughts To thy good truth and honour. Devilish Macbeth By many of these trains hath sought to win me Into his power, and modest wisdom plucks me From over-credulous haste: but God above Deal between thee and me! for even now I put myself to thy direction, and Unspeak mine own detraction, here abjure The taints and blames I laid upon myself, For strangers to my nature. I am yet Unknown to woman, never was forsworn, Scarcely have coveted what was mine own, At no time broke my faith, would not betray The devil to his fellow and delight No less in truth than life: my first false speaking Was this upon myself: what I am truly, Is thine and my poor country's to command: Whither indeed, before thy here-approach, Old Siward, with ten thousand warlike men, Already at a point, was setting forth. Now we'll together; and the chance of goodness Be like our warranted quarrel! Why are you silent?
+
+> MACDUFF: Such welcome and unwelcome things at once 'Tis hard to reconcile.
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 <script type="text/javascript">
