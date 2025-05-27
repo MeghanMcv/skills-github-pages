@@ -13,27 +13,20 @@ Feel like making a bookmarklet of this or something? [Fork it](https://github.co
 
 Above is the original code explanation, and below is my replacement of a short story. It is a short exerpt of The Most Dangerous Game, a short story by Richard Connell.
 
-> "I wanted the ideal animal to hunt," explained the general. "So I said, What are the attributes of an ideal quarry?' And the answer was, of course, `It must have courage, cunning, and, above all, it must be able to reason."'
+> Rainsford had fought his way through the bush for two hours. "I must keep my nerve. I must keep my nerve," he said through tight teeth.
+> He had not been entirely clearheaded when the chateau gates snapped shut behind him. His whole idea at first was to put distance between himself and General Zaroff; and, to this end, he had plunged along, spurred on by the sharp rowers of something very like panic. Now he had got a grip on himself, had stopped, and was taking stock of himself and the situation. He saw that straight flight was futile; inevitably it would bring him face to face with the sea. He was in a picture with a frame of water, and his operations, clearly, must take place within that frame.
 
->"But no animal can reason," objected Rainsford.
+> "I'll give him a trail to follow," muttered Rainsford, and he struck off from the rude path he had been following into the trackless wilderness. He executed a series of intricate loops; he doubled on his trail again and again, recalling all the lore of the fox hunt, and all the dodges of the fox. Night found him leg-weary, with hands and face lashed by the branches, on a thickly wooded ridge. He knew it would be insane to blunder on through the dark, even if he had the strength. His need for rest was imperative and he thought, "I have played the fox, now I must play the cat of the fable." A big tree with a thick trunk and outspread branches was near by, and, taking care to leave not the slightest mark, he climbed up into the crotch, and, stretching out on one of the broad limbs, after a fashion, rested. Rest brought him new confidence and almost a feeling of security. Even so zealous a hunter as General Zaroff could not trace him there, he told himself; only the devil himself could follow that complicated trail through the jungle after dark. But perhaps the general was a devil--
 
-> "My dear fellow," said the general, "there is one that can."
+> An apprehensive night crawled slowly by like a wounded snake and sleep did not visit Rainsford, although the silence of a dead world was on the jungle. Toward morning when a dingy gray was varnishing the sky, the cry of some startled bird focused Rainsford's attention in that direction. Something was coming through the bush, coming slowly, carefully, coming by the same winding way Rainsford had come. He flattened himself down on the limb and, through a screen of leaves almost as thick as tapestry, he watched. . . . That which was approaching was a man.
 
-> "But you can't mean--" gasped Rainsford
-> "And why not?"
+> It was General Zaroff. He made his way along with his eyes fixed in utmost concentration on the ground before him. He paused, almost beneath the tree, dropped to his knees and studied the ground. Rainsford's impulse was to hurl himself down like a panther, but he saw that the general's right hand held something metallic--a small automatic pistol.
 
-> "I can't believe you are serious, General Zaroff. This is a grisly joke."
+> The hunter shook his head several times, as if he were puzzled. Then he straightened up and took from his case one of his black cigarettes; its pungent incenselike smoke floated up to Rainsford's nostrils.
 
-> "Why should I not be serious? I am speaking of hunting."
+> Rainsford held his breath. The general's eyes had left the ground and were traveling inch by inch up the tree. Rainsford froze there, every muscle tensed for a spring. But the sharp eyes of the hunter stopped before they reached the limb where Rainsford lay; a smile spread over his brown face. Very deliberately he blew a smoke ring into the air; then he turned his back on the tree and walked carelessly away, back along the trail he had come. The swish of the underbrush against his hunting boots grew fainter and fainter.
 
-> "Hunting? Great Guns, General Zaroff, what you speak of is murder."
-
-> The general laughed with entire good nature. He regarded Rainsford quizzically. "I refuse to believe that so modern and civilized a young man as you seem to be harbors romantic ideas about the value of human life. Surely your experiences in the war--"
-
-> "Did not make me condone cold-blooded murder," finished Rainsford stiffly.
-
-> Laughter shook the general. "How extraordinarily droll you are!" he said. "One does not expect nowadays to find a young man of the educated class, even in America, with such a naive, and, if I may say so, mid-Victorian point of view. It's like finding a snuffbox in a limousine. Ah, well, doubtless you had Puritan ancestors. So many Americans appear to have had. I'll wager you'll forget your notions when you go hunting with me. You've a genuine new thrill in store for you, Mr. Rainsford."
-> 
+> The pent-up air burst hotly from Rainsford's lungs. His first thought made him feel sick and numb. The general could follow a trail through the woods at night; he could follow an extremely difficult trail; he must have uncanny powers; only by the merest chance had the Cossack failed to see his quarry.
 *Source: [https://www.btboces.org/Downloads/1_The%20Most%20Dangerous%20Game%20by%20Richard%20Connell.pdf)*
 
 
