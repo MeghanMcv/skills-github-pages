@@ -9,7 +9,7 @@ tags: [dyslexia, typoglycemia, Javascript]
 
 I remembered reading about [typoglycemia](https://en.wikipedia.org/wiki/Typoglycemia). Wouldn't it be possible to do it interactively on a website with Javascript? Sure it would.
 
-Feel like making a bookmarklet of this or something? [Fork it: Original Github Link](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) [Fork it: My Link]( on github." From the original source code
+Feel like making a bookmarklet of this or something? [Fork it: Original Github Link](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) [Fork it: My Link](https://github.com/MeghanMcv/skills-github-pages/blob/main/index.md) on github." From the original source code
 
 Above is the original code explanation, and below is my replacement of a short story. It is a short exerpt of The Most Dangerous Game, a short story by Richard Connell.
 
