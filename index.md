@@ -5,13 +5,13 @@ category: Programming
 tags: [dyslexia, typoglycemia, Javascript]
 ---
 
-A friend who has dyslexia described to me how she experiences reading. She *can* read, but it takes a lot of concentration, and the letters seems to "jump around".
+"A friend who has dyslexia described to me how she experiences reading. She *can* read, but it takes a lot of concentration, and the letters seems to "jump around".
 
 I remembered reading about [typoglycemia](https://en.wikipedia.org/wiki/Typoglycemia). Wouldn't it be possible to do it interactively on a website with Javascript? Sure it would.
 
-Feel like making a bookmarklet of this or something? [Fork it](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) on github.
+Feel like making a bookmarklet of this or something? [Fork it](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) on github." From the original source code
 
-Above is the original code explanation, and below is my replacement of a short story. It is a reccomendation, and is The Most Dangerous Game, a short story by Richard Connell.
+Above is the original code explanation, and below is my replacement of a short story. It is a recommendation, and is The Most Dangerous Game, a short story by Richard Connell.
 
 > Hurrr durrr i finally did it!!!
 
