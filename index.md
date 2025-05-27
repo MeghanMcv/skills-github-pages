@@ -46,6 +46,9 @@ Hard Mode! Shakespeare
 
 > MACDUFF: Such welcome and unwelcome things at once 'Tis hard to reconcile.
 
+*Source: [https://shakespeare.mit.edu/macbeth/macbeth.4.3.html]*
+
+
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 <script type="text/javascript">
 
