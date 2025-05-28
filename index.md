@@ -103,8 +103,8 @@ $(function(){
 
 			for (var j = 0; j < wordsInTextNodes[i].length; j++) {
 
-				// Only change a tenth of the words each round.
-				if (Math.random() > 1/10) {
+				// Only change a fifth of the words each round.
+				if (Math.random() > 1/5) {
 
 					continue;
 				}
