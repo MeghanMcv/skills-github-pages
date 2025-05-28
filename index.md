@@ -104,7 +104,7 @@ $(function(){
 			for (var j = 0; j < wordsInTextNodes[i].length; j++) {
 
 				// Only change a fifth of the words each round.
-				if (Math.random() > 1/5) {
+				if (Math.random() > 1/7) {
 
 					continue;
 				}
