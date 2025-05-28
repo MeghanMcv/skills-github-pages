@@ -122,7 +122,7 @@ $(function(){
 
 	function messUpWord (word) {
 
-		if (word.length < 2) {
+		if (word.length < 3) {
 
 			return word;
 		}
@@ -132,7 +132,7 @@ $(function(){
 
 	function messUpMessyPart (messyPart) {
 
-		if (messyPart.length < 1) {
+		if (messyPart.length < 2) {
 
 			return messyPart;
 		}
