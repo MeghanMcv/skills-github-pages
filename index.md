@@ -48,6 +48,19 @@ Hard Mode! Shakespeare
 
 *Source: [Macbeth](https://shakespeare.mit.edu/macbeth/macbeth.4.3.html)*
 
+> En vacaciones, el fin de semana o después del trabajo tienes tiempo libre para hacer ejercicio, llevar un pasatiempo o salir a divertirte.
+
+> Si eres deportista y te gusta el agua puedes nadar, si te gusta la nieve puedes esquiar. Si no dispones de mucho tiempo puedes correr o ir en bicicleta.
+
+> Hay quien prefiere quedarse en casa a ver la televisión, jugar videojuegos o navegar en Internet. Otras actividades para hacer dentro de casa cuando llueve o hace mucho frío son escuchar tu música favorita, leer un buen libro o aprender a tocar un instrumento. 
+> Puedes aprovechar tu tiempo libre
+para estudiar.
+
+> Si el tiempo es bueno, tal vez quieras ir de compras, salir con amigos a divertirse o pasar tiempo con la familia en algún lugar divertido para todos, como un parque de diversiones, el teatro o el cine.
+
+> Aprovechar el tiempo libre es importante para tener una vida feliz.
+
+*Source: [Mrs. Maupin Assignment]
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 <script type="text/javascript">
